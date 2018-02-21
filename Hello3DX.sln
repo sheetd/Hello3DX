@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello3DX", "Hello3DX.csproj", "{098F29FA-7B76-433C-B0F3-BD334B0A672E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello3DX", "Hello3DX\Hello3DX.csproj", "{098F29FA-7B76-433C-B0F3-BD334B0A672E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55917068-FE9F-4247-AE8A-CA112EFCB53F}
 	EndGlobalSection
 EndGlobal
